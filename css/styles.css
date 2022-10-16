@@ -13,3 +13,8 @@ h2 {
 div {
     text-align: center;
 }
+
+ul {
+    list-style: inside;
+}
+
